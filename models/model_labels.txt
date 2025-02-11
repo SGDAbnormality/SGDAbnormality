@@ -1,1 +1,1 @@
-MLP-1841k
+ConvNN-1814k
